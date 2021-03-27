@@ -1,17 +1,60 @@
 ---
 title: Resume
-description: In case you wanted to hire me, here it is!
-date: '2019-02-28'
+description: In case you want to hire me, here it is!
+date: '2021-03-26'
 aliases:
-draft: true
   - about-us
   - about-hugo
   - contact
 license: CC BY-NC-ND
-lastmod: '2021-03-26'
+lastmod: '2021-03-27'
 menu:
     main:
         weight: -90
         pre: user
 ---
-# INCOMPLETE, DO NOT USE YET
+
+### Qualifications
+  - US Amateur Radio Technician's License
+  - FEMA IS100
+  - FEMA IS700
+
+### Languages
+  - Python - 1 year
+  - Bash - 6+ years
+  - HTML w/ CSS - 2+ years
+
+### Experience
+  - Linux
+    - Strong experience in the command line
+    - Configuring permissions for users and groups
+    - Updating, configuring, remotely managing and repairing systems.
+    - I have experience with Debian/Ubuntu, Alpine, CentOS,
+      and Arch-based distributions.
+
+  - Programming/Scripting
+
+  - Networking
+
+### Education
+  - Perrysburg High School
+  - GPA 3.7
+  - Most of my knowledge about IT is self-taught
+
+### Activities
+  - Scouts BSA
+    - I was in BSA for about 6 years, and earned my Eagle in 2016
+    - I got experience with leadership in teams of 5-20 people.
+  - Civil Air Patrol
+    - I am currently a Cadet in the Civil Air Patrol, the volunteer
+      auxiliary of USAF. It is similar to JROTC.
+    - My rank is C/SSgt and I am responsible for communications
+      training and equipment.
+  - Perrysburg High School Robotics Club
+
+### Personal Projects
+
+### Additional Skills
+  - Woodworking
+  - Soldering
+  - Basic speaking-level German
