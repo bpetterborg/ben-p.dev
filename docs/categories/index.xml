@@ -8,65 +8,38 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 25 Mar 2021 18:53:44 -0400</lastBuildDate><atom:link href="https://www.ben-p.dev/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>github pages</title>
-      <link>https://www.ben-p.dev/categories/github-pages/</link>
+      <title>Coding</title>
+      <link>https://www.ben-p.dev/categories/code/</link>
       <pubDate>Thu, 25 Mar 2021 18:53:44 -0400</pubDate>
       
-      <guid>https://www.ben-p.dev/categories/github-pages/</guid>
+      <guid>https://www.ben-p.dev/categories/code/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>hugo</title>
-      <link>https://www.ben-p.dev/categories/hugo/</link>
-      <pubDate>Thu, 25 Mar 2021 18:53:44 -0400</pubDate>
+      <title>Homelab</title>
+      <link>https://www.ben-p.dev/categories/homelab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.ben-p.dev/categories/hugo/</guid>
+      <guid>https://www.ben-p.dev/categories/homelab/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Test</title>
-      <link>https://www.ben-p.dev/categories/test/</link>
-      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      <title>Networking</title>
+      <link>https://www.ben-p.dev/categories/networking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.ben-p.dev/categories/test/</guid>
+      <guid>https://www.ben-p.dev/categories/networking/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>测试</title>
-      <link>https://www.ben-p.dev/categories/%E6%B5%8B%E8%AF%95/</link>
-      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      <title>Weather Satellites</title>
+      <link>https://www.ben-p.dev/categories/wxsat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.ben-p.dev/categories/%E6%B5%8B%E8%AF%95/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>syntax</title>
-      <link>https://www.ben-p.dev/categories/syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.ben-p.dev/categories/syntax/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>themes</title>
-      <link>https://www.ben-p.dev/categories/themes/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.ben-p.dev/categories/themes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Test with whitespaces</title>
-      <link>https://www.ben-p.dev/categories/test-with-whitespaces/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.ben-p.dev/categories/test-with-whitespaces/</guid>
+      <guid>https://www.ben-p.dev/categories/wxsat/</guid>
       <description></description>
     </item>
     

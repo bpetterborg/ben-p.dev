@@ -9,16 +9,26 @@
   
   <url>
     <loc>https://www.ben-p.dev/</loc>
-    <lastmod>2021-03-26T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.ben-p.dev/page/</loc>
-    <lastmod>2021-03-26T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.ben-p.dev/resume/</loc>
+    <lastmod>2021-03-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.ben-p.dev/categories/</loc>
+    <lastmod>2021-03-25T18:53:44-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.ben-p.dev/categories/code/</loc>
     <lastmod>2021-03-25T18:53:44-04:00</lastmod>
   </url>
   
@@ -28,22 +38,12 @@
   </url>
   
   <url>
-    <loc>https://www.ben-p.dev/categories/github-pages/</loc>
-    <lastmod>2021-03-25T18:53:44-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.ben-p.dev/p/host-hugo-w/-github-pages/</loc>
+    <loc>https://www.ben-p.dev/p/host-hugo-with-github-pages/</loc>
     <lastmod>2021-03-25T18:53:44-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.ben-p.dev/tags/hugo/</loc>
-    <lastmod>2021-03-25T18:53:44-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.ben-p.dev/categories/hugo/</loc>
     <lastmod>2021-03-25T18:53:44-04:00</lastmod>
   </url>
   
@@ -58,112 +58,24 @@
   </url>
   
   <url>
-    <loc>https://www.ben-p.dev/p/test-chinese/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.ben-p.dev/categories/test/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.ben-p.dev/categories/%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.ben-p.dev/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.ben-p.dev/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://www.ben-p.dev/categories/homelab/</loc>
   </url>
   
   <url>
-    <loc>https://www.ben-p.dev/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.ben-p.dev/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.ben-p.dev/p/markdown-syntax-guide/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.ben-p.dev/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.ben-p.dev/tags/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.ben-p.dev/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.ben-p.dev/tags/privacy/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.ben-p.dev/p/rich-content/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.ben-p.dev/tags/shortcodes/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.ben-p.dev/p/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.ben-p.dev/tags/tag-with-whitespaces/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.ben-p.dev/categories/test-with-whitespaces/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.ben-p.dev/tags/text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.ben-p.dev/p/math-typesetting/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.ben-p.dev/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.ben-p.dev/p/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <loc>https://www.ben-p.dev/categories/networking/</loc>
   </url>
   
   <url>
     <loc>https://www.ben-p.dev/search/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.ben-p.dev/categories/wxsat/</loc>
   </url>
   
 </urlset>
