@@ -43,7 +43,7 @@ menu:
 ### Tools
 Proxmox, Docker, Kubernetes, Rancher, NGINX, Apache,
 Matplotlib, Gpiozero,
-BASH, PowerShell, SSH, VNC, Git, Github, 
+BASH, PowerShell, SSH, VNC, Git, Github,
 
 ### Education
   - Perrysburg High School
@@ -62,7 +62,7 @@ BASH, PowerShell, SSH, VNC, Git, Github,
   - Perrysburg High School Robotics Club
 
 ### Personal Projects
-  - [Homelab](/p/homelab) <!-- Still need to make this page -->
+  - [Homelab](/p/my-homelab) 
   - [Pi-controlled Potato Cannon](https://github.com/bpetterborg/potato-cannon)
     - I used a Raspberry Pi to precisely and remotely fire a CO2 potato cannon.
       See link for details and code.
