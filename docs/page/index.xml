@@ -20,6 +20,17 @@ Thanks for reading!</description>
     </item>
     
     <item>
+      <title>Resume</title>
+      <link>https://www.ben-p.dev/resume/</link>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.ben-p.dev/resume/</guid>
+      <description>Qualifications  US Amateur Radio Technician&amp;rsquo;s License FEMA IS100 FEMA IS700  Languages  Python - 1 year Bash - 6+ years HTML w/ CSS - 2+ years  Experience   Linux
+ Strong experience in the command line Configuring permissions for users and groups Updating, configuring, remotely managing and repairing systems. I have experience with Debian/Ubuntu, Alpine, CentOS, and Arch-based distributions.    Programming/Scripting
+ Google Cloud Speech Recognition, Matplot, Flask, Gpiozero, etc.</description>
+    </item>
+    
+    <item>
       <title>Archives</title>
       <link>https://www.ben-p.dev/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>

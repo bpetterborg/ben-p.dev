@@ -33,8 +33,17 @@ menu:
       and Arch-based distributions.
 
   - Programming/Scripting
+    - Google Cloud Speech Recognition, Matplot, Flask, Gpiozero, etc.
+    - See [Personal Projects](#personal-projects)
 
   - Networking
+    - Configuring networking equipment (e.g. switches, firewalls, VPNs, etc.)
+    - Pulling and terminating Ethernet lines
+
+### Tools
+Proxmox, Docker, Kubernetes, Rancher, NGINX, Apache,
+Matplotlib, Gpiozero,
+BASH, PowerShell, SSH, VNC, Git, Github, 
 
 ### Education
   - Perrysburg High School
@@ -53,6 +62,11 @@ menu:
   - Perrysburg High School Robotics Club
 
 ### Personal Projects
+  - [Homelab](/p/homelab) <!-- Still need to make this page -->
+  - [Pi-controlled Potato Cannon](https://github.com/bpetterborg/potato-cannon)
+    - I used a Raspberry Pi to precisely and remotely fire a CO2 potato cannon.
+      See link for details and code.
+  - [Pi-based Smart Home Garage Door Opener](/p/pi-garage-door-opener) <!-- make page -->
 
 ### Additional Skills
   - Woodworking

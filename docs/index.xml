@@ -6,7 +6,86 @@
         <description>Recent content on Ben Petterborg</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 26 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.ben-p.dev/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 27 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.ben-p.dev/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>My Homelab</title>
+        <link>https://www.ben-p.dev/p/my-homelab/</link>
+        <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.ben-p.dev/p/my-homelab/</guid>
+        <description>&lt;h3 id=&#34;hardware&#34;&gt;Hardware&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Servers&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dell R710 II
+&lt;ul&gt;
+&lt;li&gt;Dual Xeon X5670s&lt;/li&gt;
+&lt;li&gt;32GiB RAM&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Networking&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Switches&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;TP-Link TL-SG108E&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Wireless APs&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Linksys EA6900&lt;/li&gt;
+&lt;li&gt;Linksys RE6800&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;software&#34;&gt;Software&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;R710 - Proxmox VE (Hypervisor)
+&lt;ul&gt;
+&lt;li&gt;OPNsense firewall&lt;/li&gt;
+&lt;li&gt;Debian LXC
+&lt;ul&gt;
+&lt;li&gt;Docker&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;workloadsservices&#34;&gt;Workloads/Services&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Proxmox VMs/LXCs&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;OPNsense firewall&lt;/li&gt;
+&lt;li&gt;OpenMediaVault NAS&lt;/li&gt;
+&lt;li&gt;Zabbix (Monitoring)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Docker&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Home Assistant&lt;/li&gt;
+&lt;li&gt;NGINX Proxy Manager&lt;/li&gt;
+&lt;li&gt;Portainer&lt;/li&gt;
+&lt;li&gt;Heimdall (Dashboard of all services)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Other&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;OctoPrint&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
         <title>Host Hugo w/ Github Pages</title>
         <link>https://www.ben-p.dev/p/host-hugo-with-github-pages/</link>
         <pubDate>Thu, 25 Mar 2021 18:53:44 -0400</pubDate>

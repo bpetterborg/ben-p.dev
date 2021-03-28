@@ -6,7 +6,21 @@
     <description>Recent content in Posts on Ben Petterborg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Mar 2021 18:53:44 -0400</lastBuildDate><atom:link href="https://www.ben-p.dev/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.ben-p.dev/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Homelab</title>
+      <link>https://www.ben-p.dev/p/my-homelab/</link>
+      <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.ben-p.dev/p/my-homelab/</guid>
+      <description>Hardware   Servers
+ Dell R710 II  Dual Xeon X5670s 32GiB RAM      Networking
+  Switches
+ TP-Link TL-SG108E    Wireless APs
+ Linksys EA6900 Linksys RE6800      Software  R710 - Proxmox VE (Hypervisor)  OPNsense firewall Debian LXC  Docker      Workloads/Services   Proxmox VMs/LXCs
+ OPNsense firewall OpenMediaVault NAS Zabbix (Monitoring)    Docker</description>
+    </item>
+    
     <item>
       <title>Host Hugo w/ Github Pages</title>
       <link>https://www.ben-p.dev/p/host-hugo-with-github-pages/</link>
