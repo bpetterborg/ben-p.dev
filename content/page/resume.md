@@ -47,8 +47,8 @@ BASH, PowerShell, SSH, VNC, Git, Github,
 
 ### Education
   - Perrysburg High School
-  - GPA 3.7
-  - Most of my knowledge about IT is self-taught
+  - GPA 3.6
+  - Most of my knowledge in IT is self-taught. I learn whichever technology is necessary to complete a job.
 
 ### Activities
   - Scouts BSA

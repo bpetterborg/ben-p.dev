@@ -28,3 +28,16 @@ What I do:
 In my free time, I also do satellite reception, 3D printing, and other nerdy stuff that you will see here.
 
 Thanks for reading!
+
+
+
+
+#### Contact
+
+[Twitter](https://twitter.com/ben_petterborg) 
+
+[Instagram](https://instagram.com/ke8omv) 
+
+[Github](github.com/bpetterborg) 
+
+[Email (ben@ben-p.dev)](mailto:ben@ben-p.dev)
