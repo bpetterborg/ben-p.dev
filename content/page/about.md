@@ -38,6 +38,6 @@ Thanks for reading!
 
 [Instagram](https://instagram.com/ke8omv) 
 
-[Github](github.com/bpetterborg) 
+[Github](https://github.com/bpetterborg) 
 
 [Email (ben@ben-p.dev)](mailto:ben@ben-p.dev)

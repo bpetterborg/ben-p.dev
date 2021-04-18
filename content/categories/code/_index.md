@@ -2,7 +2,7 @@
 title: "Coding"
 description: "Anything related to coding"
 slug: "code"
-#image: "hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg"
+image: "code.png"
 style:
     background: "#2a9d8f"
     color: "#fff"

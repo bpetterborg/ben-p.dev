@@ -48,7 +48,8 @@ BASH, PowerShell, SSH, VNC, Git, Github,
 ### Education
   - Perrysburg High School
   - GPA 3.6
-  - Most of my knowledge in IT is self-taught. I learn whichever technology is necessary to complete a job.
+  - Most of my knowledge in tech is self-taught. I will learn 
+    whichever technology is necessary to complete a job.
 
 ### Activities
   - Scouts BSA
@@ -66,7 +67,8 @@ BASH, PowerShell, SSH, VNC, Git, Github,
   - [Pi-controlled Potato Cannon](https://github.com/bpetterborg/potato-cannon)
     - I used a Raspberry Pi to precisely and remotely fire a CO2 potato cannon.
       See link for details and code.
-  - [Pi-based Smart Home Garage Door Opener](/p/pi-garage-door-opener) <!-- make page -->
+  - [Pi-based Smart Home Garage-Door Opener](/p/pi-garage-door-opener) <!-- make page -->
+  - [Discord bot that decodes and rebroadcasts P25 radio](/p/radio-monitor)
 
 ### Additional Skills
   - Woodworking
