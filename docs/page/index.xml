@@ -15,7 +15,7 @@
       <guid>https://www.ben-p.dev/about/</guid>
       <description>I’m a high school student studying software development, data science, systems administration, and other related stuff.
 What I do:
- Build, setup, and configure servers Install and configure networking equipment Manage hypervisors, and docker/k8s/rancher instances Create usable software Learn whatever technology is needed to complete a job  In my free time, I also do satellite reception, 3D printing, and other nerdy stuff that you will see here.
+ Build, setup, and configure servers Install and configure networking equipment Manage hypervisors, and docker/k8s/rancher instances Create usable software Learn whatever technology is needed to complete a job  In my free time, I also do satellite reception, 3D printing, and other nerd stuff that you will see here.
 Thanks for reading!</description>
     </item>
     
@@ -26,7 +26,7 @@ Thanks for reading!</description>
       
       <guid>https://www.ben-p.dev/resume/</guid>
       <description>Qualifications  US Amateur Radio Technician&amp;rsquo;s License FEMA IS100 FEMA IS700  Languages  Python - 1 year Bash - 6+ years HTML w/ CSS - 2+ years  Experience   Linux
- Strong experience in the command line Configuring permissions for users and groups Updating, configuring, remotely managing and repairing systems. I have experience with Debian/Ubuntu, Alpine, CentOS, and Arch-based distributions.    Programming/Scripting
+ Strong experience in the command line Configuring permissions for users and groups Updating, configuring, remotely managing and repairing systems. Experience with Debian/Ubuntu, Alpine, CentOS, and Arch-based distributions.    Programming/Scripting
  Google Cloud Speech Recognition, Matplot, Flask, Gpiozero, etc.</description>
     </item>
     

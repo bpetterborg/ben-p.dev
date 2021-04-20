@@ -22,6 +22,16 @@
     </item>
     
     <item>
+      <title>Radio Monitor</title>
+      <link>https://www.ben-p.dev/p/radio-monitor/</link>
+      <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.ben-p.dev/p/radio-monitor/</guid>
+      <description>Heads up This project is incomplete, while certain parts are functional, don&amp;rsquo;t expect it all to work. Content on this page may also change, as stuff is added and changed.
+Table of Contents  Introduction Commands For Civil Air Patrol Members  What it does This bot listens for P25-encoded radio traffic and rebroadcasts it over discord. This project what originally build for the Ohio Wing Civil Air Patrol&amp;rsquo;s Emergency Services, for squardons with less funding would be able to still monitor radio traffic.</description>
+    </item>
+    
+    <item>
       <title>Host Hugo w/ Github Pages</title>
       <link>https://www.ben-p.dev/p/host-hugo-with-github-pages/</link>
       <pubDate>Thu, 25 Mar 2021 18:53:44 -0400</pubDate>

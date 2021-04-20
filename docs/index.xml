@@ -86,6 +86,53 @@
 </description>
         </item>
         <item>
+        <title>Radio Monitor</title>
+        <link>https://www.ben-p.dev/p/radio-monitor/</link>
+        <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://www.ben-p.dev/p/radio-monitor/</guid>
+        <description>&lt;h2 id=&#34;heads-up&#34;&gt;Heads up&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;This project is incomplete, while certain parts are functional, don&amp;rsquo;t expect it all to work.&lt;/em&gt;
+Content on this page may also change, as stuff is added and changed.&lt;/p&gt;
+&lt;h1 id=&#34;table-of-contents&#34;&gt;Table of Contents&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#introduction&#34; &gt;Introduction&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#commands&#34; &gt;Commands&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#for-civil-air-patrol-members&#34; &gt;For Civil Air Patrol Members&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;what-it-does&#34;&gt;What it does&lt;/h3&gt;
+&lt;p&gt;This bot listens for P25-encoded radio traffic and rebroadcasts
+it over discord. This project what originally build for the
+Ohio Wing Civil Air Patrol&amp;rsquo;s Emergency Services, for squardons
+with less funding would be able to still monitor radio traffic.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This bot is not capable of transmitting.&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;commands&#34;&gt;Commands&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;  connect        Connect to your current voice channel.
+
+  disconnect     Leave currently connected voice channel
+
+  ping           Get latency of the bot. To run multiple,
+                 append an integer with that value.
+
+  channel        Sets radio channel. Zones will be
+                 automatically selected. Append the
+                 channel name as a string.
+
+  start          Start receiver
+
+  halt           Kill process on server running bot.
+
+  help           View help page
+
+  version        Show version
+
+&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;for-civil-air-patrol-members&#34;&gt;For Civil Air Patrol Members&lt;/h3&gt;
+&lt;p&gt;If you would like to use this for your squadron, contact your Commander,
+Communications Officer, and &lt;a class=&#34;link&#34; href=&#34;mailto:benjamin.petterborg@ohwg.cap.gov&#34; &gt;me&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Frequencies are FOUO.&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Host Hugo w/ Github Pages</title>
         <link>https://www.ben-p.dev/p/host-hugo-with-github-pages/</link>
         <pubDate>Thu, 25 Mar 2021 18:53:44 -0400</pubDate>
