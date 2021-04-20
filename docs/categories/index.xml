@@ -6,20 +6,20 @@
     <description>Recent content in Categories on Ben Petterborg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.ben-p.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.ben-p.dev/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>coding</title>
-      <link>https://www.ben-p.dev/categories/coding/</link>
-      <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
+      <title>Coding</title>
+      <link>https://www.ben-p.dev/categories/code/</link>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.ben-p.dev/categories/coding/</guid>
+      <guid>https://www.ben-p.dev/categories/code/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Homelab</title>
       <link>https://www.ben-p.dev/categories/homelab/</link>
-      <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.ben-p.dev/categories/homelab/</guid>
       <description></description>
@@ -31,15 +31,6 @@
       <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.ben-p.dev/categories/networking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Coding</title>
-      <link>https://www.ben-p.dev/categories/code/</link>
-      <pubDate>Thu, 25 Mar 2021 18:53:44 -0400</pubDate>
-      
-      <guid>https://www.ben-p.dev/categories/code/</guid>
       <description></description>
     </item>
     

@@ -6,7 +6,17 @@
     <description>Recent content in linux on Ben Petterborg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.ben-p.dev/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.ben-p.dev/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Radio Monitor</title>
+      <link>https://www.ben-p.dev/p/radio-monitor/</link>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.ben-p.dev/p/radio-monitor/</guid>
+      <description>Heads up This project is incomplete, while certain parts are functional, don&amp;rsquo;t expect it all to work. Content on this page may also change, as stuff is added and changed.
+Table of Contents  Introduction Commands For Civil Air Patrol Members  What it does This bot listens for P25-encoded radio traffic and rebroadcasts it over discord. This project what originally build for the Ohio Wing Civil Air Patrol&amp;rsquo;s Emergency Services, for squardons with less funding would be able to still monitor radio traffic.</description>
+    </item>
+    
     <item>
       <title>My Homelab</title>
       <link>https://www.ben-p.dev/p/my-homelab/</link>
@@ -19,16 +29,6 @@
  TP-Link TL-SG108E    Wireless APs
  Linksys EA6900 Linksys RE6800      Software  R710 - Proxmox VE (Hypervisor)  OPNsense firewall Debian LXC  Docker      Workloads/Services   Proxmox VMs/LXCs
  OPNsense firewall OpenMediaVault NAS Zabbix (Monitoring)    Docker</description>
-    </item>
-    
-    <item>
-      <title>Radio Monitor</title>
-      <link>https://www.ben-p.dev/p/radio-monitor/</link>
-      <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.ben-p.dev/p/radio-monitor/</guid>
-      <description>Heads up This project is incomplete, while certain parts are functional, don&amp;rsquo;t expect it all to work. Content on this page may also change, as stuff is added and changed.
-Table of Contents  Introduction Commands For Civil Air Patrol Members  What it does This bot listens for P25-encoded radio traffic and rebroadcasts it over discord. This project what originally build for the Ohio Wing Civil Air Patrol&amp;rsquo;s Emergency Services, for squardons with less funding would be able to still monitor radio traffic.</description>
     </item>
     
   </channel>
