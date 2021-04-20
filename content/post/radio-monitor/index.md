@@ -2,11 +2,11 @@
 author = "Ben Petterborg"
 draft = false
 title = "Radio Monitor"
-date = "2021-03-27"
+date = "2021-04-20"
 lastmod = "2020-04-20"
 description = "An RTLSDR-based discord bot to monitor radio traffic"
 categories = [
-    "coding",
+    "code",
     "homelab"
 ]
 tags = [
