@@ -25,7 +25,7 @@ What I do:
  - Learn whatever technology is needed to complete a job
 
 
-In my free time, I also do satellite reception, 3D printing, and other nerdy stuff that you will see here.
+In my free time, I also do satellite reception, 3D printing, and other nerd stuff that you will see here.
 
 Thanks for reading!
 

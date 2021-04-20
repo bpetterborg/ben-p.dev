@@ -7,7 +7,7 @@ aliases:
   - about-hugo
   - contact
 license: CC BY-NC-ND
-lastmod: '2021-03-27'
+lastmod: '2021-04-19'
 menu:
     main:
         weight: -90
@@ -29,12 +29,13 @@ menu:
     - Strong experience in the command line
     - Configuring permissions for users and groups
     - Updating, configuring, remotely managing and repairing systems.
-    - I have experience with Debian/Ubuntu, Alpine, CentOS,
+    - Experience with Debian/Ubuntu, Alpine, CentOS,
       and Arch-based distributions.
 
   - Programming/Scripting
     - Google Cloud Speech Recognition, Matplot, Flask, Gpiozero, etc.
     - See [Personal Projects](#personal-projects)
+    - Python scripting
 
   - Networking
     - Configuring networking equipment (e.g. switches, firewalls, VPNs, etc.)
@@ -53,8 +54,8 @@ BASH, PowerShell, SSH, VNC, Git, Github,
 
 ### Activities
   - Scouts BSA
-    - I was in BSA for about 6 years, and earned my Eagle in 2016
-    - I got experience with leadership in teams of 5-20 people.
+    - About 6 years, earned Eagle in 2016
+    - Leadership in teams of 5-20 people.
   - Civil Air Patrol
     - I am currently a Cadet in the Civil Air Patrol, the volunteer
       auxiliary of USAF. It is similar to JROTC.
@@ -67,10 +68,11 @@ BASH, PowerShell, SSH, VNC, Git, Github,
   - [Pi-controlled Potato Cannon](https://github.com/bpetterborg/potato-cannon)
     - I used a Raspberry Pi to precisely and remotely fire a CO2 potato cannon.
       See link for details and code.
-  - [Pi-based Smart Home Garage-Door Opener](/p/pi-garage-door-opener) <!-- make page -->
   - [Discord bot that decodes and rebroadcasts P25 radio](/p/radio-monitor)
 
 ### Additional Skills
   - Woodworking
   - Soldering
   - Basic speaking-level German
+  - Live Broadcasting
+  - Excel/Google Sheets

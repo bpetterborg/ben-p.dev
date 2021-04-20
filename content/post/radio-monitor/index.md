@@ -1,9 +1,9 @@
 +++
 author = "Ben Petterborg"
-draft = true
+draft = false
 title = "Radio Monitor"
 date = "2021-03-27"
-lastmod = "2020-03-27"
+lastmod = "2020-04-20"
 description = "An RTLSDR-based discord bot to monitor radio traffic"
 categories = [
     "coding",
@@ -20,11 +20,13 @@ tags = [
 
 ## Heads up
 *This project is incomplete, while certain parts are functional, don't expect it all to work.*
+Content on this page may also change, as stuff is added and changed.
+
 
 Table of Contents
 =================
 1. [Introduction](#introduction)
-2. [How to Make it](#how-to-make-it)
+2. [Commands](#commands)
 3. [For Civil Air Patrol Members](#for-civil-air-patrol-members)
 
 ### What it does
@@ -36,8 +38,30 @@ with less funding would be able to still monitor radio traffic.
 
 **This bot is not capable of transmitting.**
 
+### Commands
 
-### How to make it
+```
+  connect        Connect to your current voice channel.
+
+  disconnect     Leave currently connected voice channel
+
+  ping           Get latency of the bot. To run multiple,
+                 append an integer with that value.
+
+  channel        Sets radio channel. Zones will be
+                 automatically selected. Append the
+                 channel name as a string.
+
+  start          Start receiver
+
+  halt           Kill process on server running bot.
+
+  help           View help page
+
+  version        Show version
+
+```
+
 
 ### For Civil Air Patrol Members
 
