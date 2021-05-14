@@ -16,11 +16,14 @@ menu:
 
 ### Qualifications
   - US Amateur Radio Technician's License
+  - ECSI Adult, Child, & Infant CPR & AED, Standard First Aid
   - FEMA IS100
   - FEMA IS700
 
 ### Languages
   - Python - 1 year
+  - C++ (Arduino/ESP32) - 1 year
+  - JavaScript (NodeJS) - 6 months
   - Bash - 6+ years
   - HTML w/ CSS - 2+ years
 
@@ -34,17 +37,17 @@ menu:
 
   - Programming/Scripting
     - Google Cloud Speech Recognition, Matplot, Flask, Gpiozero, etc.
+    - Python apps and scripts
     - See [Personal Projects](#personal-projects)
-    - Python scripting
 
   - Networking
     - Configuring networking equipment (e.g. switches, firewalls, VPNs, etc.)
     - Pulling and terminating Ethernet lines
 
 ### Tools
-Proxmox, Docker, Kubernetes, Rancher, NGINX, Apache,
+Proxmox, Docker, Kubernetes, Rancher, Nginx, Apache, Zabbix,
 Matplotlib, Gpiozero,
-BASH, PowerShell, SSH, VNC, Git, Github,
+BASH, PowerShell, SSH, VNC, Git CLI, Github
 
 ### Education
   - Perrysburg High School
@@ -59,8 +62,7 @@ BASH, PowerShell, SSH, VNC, Git, Github,
   - Civil Air Patrol
     - I am currently a Cadet in the Civil Air Patrol, the volunteer
       auxiliary of USAF. It is similar to JROTC.
-    - My rank is C/SSgt and I am responsible for communications
-      training and equipment.
+    - I am responsible for IT and communications equipment and training.
   - Perrysburg High School Robotics Club
 
 ### Personal Projects
@@ -71,8 +73,8 @@ BASH, PowerShell, SSH, VNC, Git, Github,
   - [Discord bot that decodes and rebroadcasts P25 radio](/p/radio-monitor)
 
 ### Additional Skills
-  - Woodworking
+  - Excel/Google Sheets
   - Soldering
+  - Woodworking
   - Basic speaking-level German
   - Live Broadcasting
-  - Excel/Google Sheets
