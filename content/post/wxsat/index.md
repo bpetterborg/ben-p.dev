@@ -1,5 +1,4 @@
 +++
-draft = false
 date = 2021-05-12T20:00:00-04:00
 title = "Host Hugo w/ Github Pages"
 description = "Guide to hosting Hugo sites on Github Pages"
