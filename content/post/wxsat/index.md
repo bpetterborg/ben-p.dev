@@ -1,7 +1,7 @@
 +++
 date = 2021-05-12T20:00:00-04:00
-title = "Host Hugo w/ Github Pages"
-description = "Guide to hosting Hugo sites on Github Pages"
+title = "Pull Images Directly from Satellites"
+description = "Satellite reception on inexpensive equipment"
 tags = [
 	"wxsat",
 	"amsat",
