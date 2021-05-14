@@ -6,7 +6,8 @@ tags = [
 	"wxsat",
 	"amsat",
 	"noaa apt",
-	"nasa"
+	"nasa",
+	"radio"
 ]
 categories = [
 	"Weather Satellites"
@@ -25,7 +26,7 @@ Table of Contents
 1. [Introduction](#introduction)
 2. [Getting Started](#getting-started)
 3. [Receiving](#receiving)
-4. [Decoding]
+4. [Decoding](#decoding)
 5. [What to do Next](#what-to-do-next)
 6. [Additional Resources](#additional-resources)
 
@@ -66,7 +67,7 @@ You will also need a laptop, an Android phone, or a tablet. Brighter screens
 are better since you will be outside.
 
 ## Receieving
-A few minutes before the satellite will be above, Setup your antenna. Each 
+A few minutes before the satellite will be above, setup your antenna. Each 
 element of the dipole should be ~53cm long, 120° apart, with 'V' facing south. 
 The center conductor of the coax should be connected to the element facing
 right. If it's not, simply flip the antenna over.
