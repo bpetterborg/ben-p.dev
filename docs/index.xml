@@ -1,179 +1,96 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Ben Petterborg</title>
-        <link>https://www.ben-p.dev/</link>
-        <description>Recent content on Ben Petterborg</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
-        <lastBuildDate>Tue, 20 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.ben-p.dev/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Radio Monitor</title>
-        <link>https://www.ben-p.dev/p/radio-monitor/</link>
-        <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
-        
-        <guid>https://www.ben-p.dev/p/radio-monitor/</guid>
-        <description>&lt;h2 id=&#34;heads-up&#34;&gt;Heads up&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;This project is incomplete, while certain parts are functional, don&amp;rsquo;t expect it all to work.&lt;/em&gt;
-Content on this page may also change, as stuff is added and changed.&lt;/p&gt;
-&lt;h1 id=&#34;table-of-contents&#34;&gt;Table of Contents&lt;/h1&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#introduction&#34; &gt;Introduction&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#commands&#34; &gt;Commands&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#for-civil-air-patrol-members&#34; &gt;For Civil Air Patrol Members&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3 id=&#34;what-it-does&#34;&gt;What it does&lt;/h3&gt;
-&lt;p&gt;This bot listens for P25-encoded radio traffic and rebroadcasts
-it over discord. This project what originally build for the
-Ohio Wing Civil Air Patrol&amp;rsquo;s Emergency Services, for squardons
-with less funding would be able to still monitor radio traffic.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;This bot is not capable of transmitting.&lt;/strong&gt;&lt;/p&gt;
-&lt;h3 id=&#34;commands&#34;&gt;Commands&lt;/h3&gt;
-&lt;pre&gt;&lt;code&gt;  connect        Connect to your current voice channel.
-
-  disconnect     Leave currently connected voice channel
-
-  ping           Get latency of the bot. To run multiple,
-                 append an integer with that value.
-
-  channel        Sets radio channel. Zones will be
-                 automatically selected. Append the
-                 channel name as a string.
-
-  start          Start receiver
-
-  halt           Kill process on server running bot.
-
-  help           View help page
-
-  version        Show version
-
-&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;for-civil-air-patrol-members&#34;&gt;For Civil Air Patrol Members&lt;/h3&gt;
-&lt;p&gt;If you would like to use this for your squadron, contact your Commander,
-Communications Officer, and &lt;a class=&#34;link&#34; href=&#34;mailto:benjamin.petterborg@ohwg.cap.gov&#34; &gt;me&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Frequencies are FOUO.&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>My Homelab</title>
-        <link>https://www.ben-p.dev/p/my-homelab/</link>
-        <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
-        
-        <guid>https://www.ben-p.dev/p/my-homelab/</guid>
-        <description>&lt;h3 id=&#34;hardware&#34;&gt;Hardware&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Servers&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Dell R710 II
-&lt;ul&gt;
-&lt;li&gt;Dual Xeon X5670s&lt;/li&gt;
-&lt;li&gt;32GiB RAM&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Networking&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Switches&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;TP-Link TL-SG108E&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Wireless APs&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Linksys EA6900&lt;/li&gt;
-&lt;li&gt;Linksys RE6800&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;software&#34;&gt;Software&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;R710 - Proxmox VE (Hypervisor)
-&lt;ul&gt;
-&lt;li&gt;OPNsense firewall&lt;/li&gt;
-&lt;li&gt;Debian LXC
-&lt;ul&gt;
-&lt;li&gt;Docker&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;workloadsservices&#34;&gt;Workloads/Services&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Proxmox VMs/LXCs&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;OPNsense firewall&lt;/li&gt;
-&lt;li&gt;OpenMediaVault NAS&lt;/li&gt;
-&lt;li&gt;Zabbix (Monitoring)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Docker&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Home Assistant&lt;/li&gt;
-&lt;li&gt;NGINX Proxy Manager&lt;/li&gt;
-&lt;li&gt;Portainer&lt;/li&gt;
-&lt;li&gt;Heimdall (Dashboard of all services)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Other&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;OctoPrint&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        </item>
-        <item>
-        <title>Host Hugo w/ Github Pages</title>
-        <link>https://www.ben-p.dev/p/host-hugo-with-github-pages/</link>
-        <pubDate>Thu, 25 Mar 2021 18:53:44 -0400</pubDate>
-        
-        <guid>https://www.ben-p.dev/p/host-hugo-with-github-pages/</guid>
-        <description>&lt;img src="https://www.ben-p.dev/p/host-hugo-with-github-pages/header.png" alt="Featured image of post Host Hugo w/ Github Pages" /&gt;&lt;h1 id=&#34;table-of-contents&#34;&gt;Table of Contents&lt;/h1&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#introduction&#34; &gt;Introduction&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#getting-started&#34; &gt;Getting Started&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#prepare-your-environment&#34; &gt;Prepare your environment&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#building-your-site&#34; &gt;Building your site&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;I had a bit of difficulty setting up Hugo to work with Github Pages,
-so I decided to document how I was able to make it work.&lt;/p&gt;
-&lt;h2 id=&#34;getting-started&#34;&gt;Getting Started&lt;/h2&gt;
-&lt;p&gt;This guide assumes you already have a Hugo site. If you do not,
-you can learn how to &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/getting-started/quick-start/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;You will also need a Github Pages repo setup, these are pretty simple,
-and you can use &lt;a class=&#34;link&#34; href=&#34;https://guides.github.com/features/pages/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;this&lt;/a&gt; guide.&lt;/p&gt;
-&lt;p&gt;Both of these are pretty simple to setup, but if you have any questions,
-ask Google first, but if that doesn&amp;rsquo;t work, leave me an &lt;a class=&#34;link&#34; href=&#34;mailto:ben@ben-p.dev&#34; &gt;email&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;prepare-your-environment&#34;&gt;Prepare your environment&lt;/h2&gt;
-&lt;p&gt;After you&amp;rsquo;ve created your site repo, delete the contents. Once that&amp;rsquo;s done,
-head to wherever you wish to keep it on your local machine and clone it.&lt;/p&gt;
-&lt;p&gt;Once you&amp;rsquo;re done, &lt;code&gt;cd&lt;/code&gt; to it and create an empty file named &lt;code&gt;.nojekyll&lt;/code&gt;&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-Bash&#34; data-lang=&#34;Bash&#34;&gt;touch .nojekyll
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;After that, go ahead and generate your site with Hugo. If you&amp;rsquo;ve already made your site and want to
-migrate to Github Pages, just copy the contents over to the new repo.&lt;/p&gt;
-&lt;p&gt;Now, we&amp;rsquo;ll need to edit the &lt;code&gt;config.toml&lt;/code&gt; to configure the site to be compatible with Github Pages.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-Bash&#34; data-lang=&#34;Bash&#34;&gt;vim config.toml
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Add the following line, under the top set of variables&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-TOML&#34; data-lang=&#34;TOML&#34;&gt;&lt;span class=&#34;nx&#34;&gt;publishDir&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;docs&amp;#34;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Go to your Repo&amp;gt;Settings&amp;gt;Github Pages&amp;gt; and set &lt;code&gt;Source&lt;/code&gt; directory to &lt;code&gt;/docs&lt;/code&gt;&lt;/p&gt;
-&lt;h2 id=&#34;building-your-site&#34;&gt;Building your site&lt;/h2&gt;
-&lt;p&gt;Go to the folder where you have your site and run &lt;code&gt;hugo&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;Now that your site has been built, add all, commit, and push to Github.&lt;/p&gt;
-</description>
-        </item>
-        
-    </channel>
+  <channel>
+    <title>Ben Petterborg</title>
+    <link>https://www.ben-p.dev/</link>
+    <description>Recent content on Ben Petterborg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 May 2021 20:00:00 -0400</lastBuildDate><atom:link href="https://www.ben-p.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Host Hugo w/ Github Pages</title>
+      <link>https://www.ben-p.dev/p/apt-reception/</link>
+      <pubDate>Wed, 12 May 2021 20:00:00 -0400</pubDate>
+      
+      <guid>https://www.ben-p.dev/p/apt-reception/</guid>
+      <description>Table of Contents  Introduction Getting Started Receiving [Decoding] What to do Next Additional Resources  Introduction NOAA has weather satellites that are easy to receive with basic and inexpensive equipment. This guide will show how to receive and decode the downlink of these satellites.
+Roscosmos also operates METEOR satellites, which are relatively easy to receive and decode, which can be done with the same hardware, however this guide will not detail how to do this.</description>
+    </item>
+    
+    <item>
+      <title>Radio Monitor</title>
+      <link>https://www.ben-p.dev/p/radio-monitor/</link>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.ben-p.dev/p/radio-monitor/</guid>
+      <description>Heads up This project is incomplete, while certain parts are functional, don&amp;rsquo;t expect it all to work. Content on this page may also change, as stuff is added and changed.
+Table of Contents  Introduction Commands For Civil Air Patrol Members  What it does This bot listens for P25-encoded radio traffic and rebroadcasts it over discord. This project what originally build for the Ohio Wing Civil Air Patrol&amp;rsquo;s Emergency Services, for squardons with less funding would be able to still monitor radio traffic.</description>
+    </item>
+    
+    <item>
+      <title>My Homelab</title>
+      <link>https://www.ben-p.dev/p/my-homelab/</link>
+      <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.ben-p.dev/p/my-homelab/</guid>
+      <description>Hardware   Servers
+ Dell R710 II  Dual Xeon X5670s 32GiB RAM      Networking
+  Switches
+ TP-Link TL-SG108E    Wireless APs
+ Linksys EA6900 Linksys RE6800      Software  R710 - Proxmox VE (Hypervisor)  OPNsense firewall Debian LXC  Docker      Workloads/Services   Proxmox VMs/LXCs
+ OPNsense firewall OpenMediaVault NAS Zabbix (Monitoring)    Docker</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://www.ben-p.dev/about/</link>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.ben-p.dev/about/</guid>
+      <description>I’m a high school student studying software development, data science, systems administration, and other related stuff.
+What I do:
+ Build, setup, and configure servers Install and configure networking equipment Manage hypervisors, and docker/k8s/rancher instances Create usable software Learn whatever technology is needed to complete a job  In my free time, I also do satellite reception, 3D printing, and other nerd stuff that you will see here.
+Thanks for reading!</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>https://www.ben-p.dev/resume/</link>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.ben-p.dev/resume/</guid>
+      <description>Qualifications  US Amateur Radio Technician&amp;rsquo;s License ECSI Adult, Child, &amp;amp; Infant CPR &amp;amp; AED, Standard First Aid FEMA IS100 FEMA IS700  Languages  Python - 1 year C++ (Arduino/ESP32) - 1 year JavaScript (NodeJS) - 6 months Bash - 6+ years HTML w/ CSS - 2+ years  Experience   Linux
+ Strong experience in the command line Configuring permissions for users and groups Updating, configuring, remotely managing and repairing systems.</description>
+    </item>
+    
+    <item>
+      <title>Host Hugo w/ Github Pages</title>
+      <link>https://www.ben-p.dev/p/host-hugo-with-github-pages/</link>
+      <pubDate>Thu, 25 Mar 2021 18:53:44 -0400</pubDate>
+      
+      <guid>https://www.ben-p.dev/p/host-hugo-with-github-pages/</guid>
+      <description>Table of Contents  Introduction Getting Started Prepare your environment Building your site  Introduction I had a bit of difficulty setting up Hugo to work with Github Pages, so I decided to document how I was able to make it work.
+Getting Started This guide assumes you already have a Hugo site. If you do not, you can learn how to here.
+You will also need a Github Pages repo setup, these are pretty simple, and you can use this guide.</description>
+    </item>
+    
+    <item>
+      <title>Archives</title>
+      <link>https://www.ben-p.dev/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.ben-p.dev/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>https://www.ben-p.dev/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.ben-p.dev/search/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
 </rss>
