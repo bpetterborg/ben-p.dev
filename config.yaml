@@ -4,7 +4,7 @@ theme: hugo-theme-stack
 paginate: 5
 title: Ben Petterborg
 publishDir: docs
-keywords: blog,developer,personal,sysadmin,devops,networking,ben petterborg,ben p,petterborg,bpetterborg
+keywords: blog,developer,personal,sysadmin,devops,networking,ben petterborg,ben p,petterborg,bpetterborg, benjamin petterborg, benjamin, ben peterborg, benjamin peterborg, peterborg, benjamin p
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn
